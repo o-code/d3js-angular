@@ -1,0 +1,8 @@
+{
+  "name": "openlayers3",
+  "description": "A high-performance, feature-packed library for all your mapping needs.",
+  "main": ["d3.module.js"],
+  "dependencies": {
+    "d3": "^3.5.17",
+  },
+}
